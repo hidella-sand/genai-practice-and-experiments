@@ -31,3 +31,9 @@ pytube
 numexpr
 huggingface_hub
 langchain-ollama
+langchain-classic
+langchain_core
+fastapi
+uvicorn
+langserve[all]
+sse_starlette
